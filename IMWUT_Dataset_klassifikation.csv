@@ -1,0 +1,655 @@
+paper_id,year,paper_type,code_required,code_available,code_url,data_required,data_available,data_url,hardware_required,software_required
+2023_Mar_001,2023,Software Development;User Study,Yes,No,No,No,No,No,No,No
+2023_Mar_002,2023,Algorithm Development;Hardware Development,Yes,No,No,No,No,No,Yes,No
+2023_Mar_003,2023,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,No,No,No,No
+2023_Mar_004,2023,Algorithm Development;Hardware Development,Yes,No,No,Yes,No,No,Yes,No
+2023_Mar_005,2023,Algorithm Development;Hardware Development,Yes,No,No,Yes,No,No,Yes,No
+2023_Mar_006,2023,Algorithm Development;User Study,Yes,No,No,No,No,No,Yes,No
+2023_Mar_007,2023,Algorithm Development,Yes,No,No,Yes,Yes,No,No,No
+2023_Mar_008,2023,Algorithm Development;Hardware Development,Yes,No,No,Yes,No,Yes,Yes,No
+2023_Mar_009,2023,Algorithm Development;Hardware Development,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+2023_Mar_010,2023,Algorithm Development;Hardware Development,Yes,No,No,Yes,No,No,Yes,No
+2023_Mar_011,2023,Algorithm Development;Hardware Development,Yes,No,No,Yes,No,No,Yes,Yes
+2023_Mar_012,2023,Algorithm Development;Dataset Paper,Yes,No,No,Yes,No,No,No,No
+2023_Mar_013,2023,Algorithm Development;Hardware Development,Yes,No,No,No,No,No,Yes,No
+2023_Mar_014,2023,User Study,No,No,No,No,No,No,No,No
+2023_Mar_015,2023,Algorithm Development;Hardware Development,Yes,No,No,Yes,No,No,Yes,No
+2023_Mar_016,2023,Algorithm Development;Hardware Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2023_Mar_017,2023,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,No,No,No,Yes
+2023_Mar_018,2023,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2023_Mar_019,2023,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,No,No,No,Yes
+2023_Mar_020,2023,Algorithm Development;Software Development,Yes,Yes,Yes,No,No,No,No,No
+2023_Mar_021,2023,Algorithm Development;Dataset Paper,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+2023_Mar_022,2023,Algorithm Development;Software Development;User Study,Yes,Yes,Yes,No,No,No,No,No
+2023_Mar_023,2023,Software Development;User Study,Yes,No,No,No,No,No,No,Yes
+2023_Mar_024,2023,Algorithm Development;Hardware Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2023_Mar_025,2023,Software Development;Hardware Development;User Study,Yes,Yes,No,Yes,No,No,Yes,Yes
+2023_Mar_026,2023,Algorithm Development;Software Development,Yes,Yes,Yes,Yes,No,No,No,No
+2023_Mar_027,2023,Algorithm Development;Dataset Paper;User Study,No,No,No,Yes,No,Yes,No,No
+2023_Mar_028,2023,User Study,No,No,No,No,No,No,No,No
+2023_Mar_029,2023,User Study,No,No,No,No,No,No,No,No
+2023_Mar_030,2023,Algorithm Development;Hardware Development;Software Development;User Study,Yes,No,No,No,No,No,Yes,Yes
+2023_Mar_031,2023,Hardware Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2023_Mar_032,2023,Algorithm Development,Yes,No,No,Yes,Yes,No,Yes,No
+2023_Mar_033,2023,Algorithm Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2023_Mar_034,2023,Algorithm Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2023_Mar_035,2023,Algorithm Development;User Study,Yes,No,No,Yes,Yes,No,Yes,No
+2023_Mar_036,2023,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,Yes,No,Yes,Yes
+2023_Mar_037,2023,Algorithm Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2023_Mar_038,2023,Algorithm Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2023_Mar_039,2023,Algorithm Development;Dataset Paper,Yes,No,No,Yes,No,No,Yes,No
+2023_Mar_040,2023,Algorithm Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2023_Mar_041,2023,Algorithm Development;Dataset Paper;Hardware Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2023_Mar_042,2023,Algorithm Development;Hardware Development,Yes,Yes,Yes,Yes,No,No,Yes,No
+2023_Mar_043,2023,Algorithm Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2023_Mar_044,2023,Algorithm Development;Software Development;User Study,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+2023_Mar_045,2023,User Study,No,No,No,No,No,No,No,No
+2023_Jun_046,2023,Algorithm Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2023_Jun_047,2023,Algorithm Development;Hardware Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2023_Jun_048,2023,Algorithm Development,Yes,No,No,Yes,Yes,No,No,No
+2023_Jun_049,2023,Algorithm Development;Hardware Development,Yes,No,No,Yes,No,No,Yes,No
+2023_Jun_050,2023,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,No,No,No,Yes
+2023_Jun_051,2023,User Study,No,No,No,No,No,No,No,No
+2023_Jun_052,2023,User Study,No,No,No,No,No,No,No,No
+2023_Jun_053,2023,Software Development;User Study,Yes,No,Yes,No,No,No,No,No
+2023_Jun_054,2023,Algorithm Development,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+2023_Jun_055,2023,Algorithm Development,Yes,No,No,Yes,Yes,No,No,No
+2023_Jun_056,2023,Algorithm Development;Hardware Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2023_Jun_057,2023,Algorithm Development;Hardware Development;Software Development;User Study,Yes,Yes,Yes,No,No,No,Yes,No
+2023_Jun_058,2023,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,No,No,No,Yes
+2023_Jun_059,2023,Algorithm Development;Software Development;User Study,Yes,No,No,No,No,No,No,No
+2023_Jun_060,2023,Algorithm Development;Hardware Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2023_Jun_061,2023,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2023_Jun_062,2023,Hardware Development;Software Development;User Study,Yes,No,No,No,No,No,Yes,Yes
+2023_Jun_063,2023,Hardware Development;Software Development;User Study,Yes,No,Yes,No,No,No,No,Yes
+2023_Jun_064,2023,Algorithm Development;Software Development,Yes,No,No,No,No,No,No,No
+2023_Jun_065,2023,Algorithm Development;Software Development,Yes,No,No,No,No,No,No,Yes
+2023_Jun_066,2023,Software Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2023_Jun_067,2023,Algorithm Development;Software Development;User Study,Yes,No,No,No,No,No,No,No
+2023_Jun_068,2023,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,No,No,No,No
+2023_Jun_069,2023,Algorithm Development;Hardware Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2023_Jun_070,2023,Algorithm Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2023_Jun_071,2023,Hardware Development;Software Development;User Study,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+2023_Jun_072,2023,Software Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2023_Jun_073,2023,Algorithm Development;Hardware Development,Yes,Yes,Yes,Yes,No,No,Yes,No
+2023_Jun_074,2023,Algorithm Development;Dataset Paper,Yes,No,No,Yes,Yes,Yes,Yes,Yes
+2023_Jun_075,2023,Algorithm Development,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+2023_Jun_076,2023,Algorithm Development;Hardware Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2023_Jun_077,2023,Software Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2023_Jun_078,2023,Algorithm Development;Dataset Paper;Software Development,Yes,No,No,Yes,Yes,Yes,Yes,No
+2023_Jun_079,2023,Algorithm Development,Yes,No,No,Yes,No,No,Yes,Yes
+2023_Jun_080,2023,Algorithm Development,Yes,No,No,Yes,Yes,No,Yes,No
+2023_Jun_081,2023,Algorithm Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2023_Jun_082,2023,Algorithm Development,Yes,Yes,Yes,Yes,No,No,Yes,No
+2023_Sep_083,2023,Algorithm Development;Software Development,Yes,No,No,No,No,No,Yes,No
+2023_Sep_084,2023,Algorithm Development;Hardware Development;Software Development,Yes,Yes,Yes,Yes,No,No,Yes,No
+2023_Sep_085,2023,Algorithm Development;Hardware Development;Software Development;User Study,Yes,No,No,Yes,Yes,No,Yes,No
+2023_Sep_086,2023,Algorithm Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2023_Sep_087,2023,Algorithm Development;User Study,Yes,Yes,Yes,Yes,Yes,No,No,No
+2023_Sep_088,2023,Algorithm Development,Yes,Yes,Yes,Yes,Yes,No,No,No
+2023_Sep_089,2023,Algorithm Development;Software Development,Yes,No,No,No,No,No,Yes,Yes
+2023_Sep_090,2023,Algorithm Development;Software Development;User Study,Yes,Yes,Yes,No,No,No,Yes,No
+2023_Sep_091,2023,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,No,No,No,No
+2023_Sep_092,2023,Algorithm Development;Software Development;User Study,Yes,No,No,No,No,No,No,No
+2023_Sep_093,2023,Algorithm Development;Software Development;User Study,Yes,No,No,No,No,No,No,No
+2023_Sep_094,2023,Algorithm Development;Software Development;User Study,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+2023_Sep_095,2023,Algorithm Development;Hardware Development;User Study,Yes,Yes,Yes,No,No,No,Yes,No
+2023_Sep_096,2023,Algorithm Development,Yes,No,No,Yes,Yes,No,No,No
+2023_Sep_097,2023,Algorithm Development;Hardware Development;Software Development,Yes,No,No,Yes,No,No,Yes,No
+2023_Sep_098,2023,Algorithm Development;Dataset Paper,Yes,No,No,Yes,No,No,No,No
+2023_Sep_099,2023,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,No,No,No,No
+2023_Sep_100,2023,Algorithm Development;Software Development;User Study,Yes,Yes,Yes,No,No,No,Yes,No
+2023_Sep_101,2023,Algorithm Development,Yes,No,No,Yes,Yes,No,Yes,No
+2023_Sep_102,2023,Algorithm Development,No,No,No,No,No,No,Yes,Yes
+2023_Sep_103,2023,Literature Review,No,No,No,No,No,No,No,No
+2023_Sep_104,2023,Algorithm Development;Software Development;User Study,Yes,Yes,Yes,No,No,No,No,No
+2023_Sep_105,2023,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,No,No,No,Yes
+2023_Sep_106,2023,Dataset Paper,No,No,No,No,No,No,No,No
+2023_Sep_107,2023,Algorithm Development;Hardware Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2023_Sep_108,2023,Software Development;User Study,Yes,No,No,No,No,No,No,Yes
+2023_Sep_109,2023,Algorithm Development;Dataset Paper;Software Development;User Study,Yes,No,No,Yes,Yes,Yes,No,No
+2023_Sep_110,2023,Algorithm Development;Dataset Paper;Hardware Development;Software Development;User Study,Yes,No,No,Yes,Yes,Yes,Yes,Yes
+2023_Sep_111,2023,Algorithm Development;Hardware Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2023_Sep_112,2023,Software Development;Hardware Development;User Study,Yes,No,Yes,Yes,No,Yes,Yes,Yes
+2023_Sep_113,2023,User Study,No,No,No,No,No,No,No,No
+2023_Sep_114,2023,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2023_Sep_115,2023,Algorithm Development;Dataset Paper;Hardware Development;Software Development;User Study,Yes,No,No,Yes,Yes,Yes,Yes,Yes
+2023_Sep_116,2023,Algorithm Development;Software Development,Yes,Yes,Yes,No,No,No,No,No
+2023_Sep_117,2023,Algorithm Development;Hardware Development;Software Development;User Study,Yes,Yes,Yes,No,No,No,Yes,No
+2023_Sep_118,2023,Algorithm Development;Software Development,Yes,No,No,Yes,Yes,Yes,No,No
+2023_Sep_119,2023,Algorithm Development;Software Development;User Study,Yes,No,No,No,No,No,No,No
+2023_Sep_120,2023,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,No,No,No,No
+2023_Sep_121,2023,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,No,No,No,No
+2023_Sep_122,2023,Algorithm Development;Software Development,Yes,No,No,Yes,No,No,No,Yes
+2023_Sep_123,2023,Hardware Development;Software Development;User Study,Yes,No,No,No,No,No,Yes,Yes
+2023_Sep_124,2023,Algorithm Development;Hardware Development;Software Development,Yes,Yes,Yes,No,No,No,Yes,Yes
+2023_Sep_125,2023,Algorithm Development;Software Development,Yes,No,No,Yes,Yes,No,Yes,No
+2023_Sep_126,2023,Algorithm Development;User Study,Yes,No,No,Yes,Yes,No,Yes,Yes
+2023_Sep_127,2023,Algorithm Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2023_Sep_128,2023,User Study,No,No,No,No,No,No,No,No
+2023_Sep_129,2023,Algorithm Development;Hardware Development,Yes,No,No,Yes,No,No,Yes,No
+2023_Sep_130,2023,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,Yes,No,Yes,No
+2023_Sep_131,2023,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2023_Sep_132,2023,Algorithm Development,Yes,No,No,Yes,Yes,Yes,No,No
+2023_Sep_133,2023,Algorithm Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2023_Sep_134,2023,Algorithm Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2023_Sep_135,2023,Algorithm Development;Hardware Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2023_Sep_136,2023,Algorithm Development;User Study,Yes,No,No,Yes,Yes,Yes,Yes,No
+2023_Sep_137,2023,Algorithm Development;User Study,Yes,No,No,Yes,Yes,No,Yes,No
+2023_Sep_138,2023,Algorithm Development;Hardware Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2023_Sep_139,2023,Algorithm Development;User Study,Yes,No,No,Yes,Yes,No,No,No
+2023_Sep_140,2023,Algorithm Development,Yes,No,No,Yes,Yes,No,Yes,No
+2023_Sep_141,2023,Algorithm Development;Hardware Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2023_Sep_142,2023,Algorithm Development,Yes,No,No,Yes,Yes,Yes,Yes,No
+2023_Sep_143,2023,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,Yes,No,Yes,No
+2023_Sep_144,2023,Algorithm Development;User Study,Yes,No,No,Yes,Yes,Yes,Yes,No
+2023_Sep_145,2023,Algorithm Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2023_Dec_146,2023,Algorithm Development;Hardware Development;Software Development,Yes,No,Yes,Yes,No,Yes,Yes,No
+2023_Dec_147,2023,Algorithm Development,Yes,No,No,Yes,Yes,No,No,No
+2023_Dec_148,2023,Algorithm Development;Hardware Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2023_Dec_149,2023,Algorithm Development;Hardware Development,Yes,No,No,No,No,No,Yes,Yes
+2023_Dec_150,2023,Algorithm Development;Hardware Development;User Study,Yes,No,No,No,No,No,Yes,Yes
+2023_Dec_151,2023,Algorithm Development,Yes,No,No,Yes,Yes,Yes,No,No
+2023_Dec_152,2023,User Study,No,No,No,No,No,No,No,No
+2023_Dec_153,2023,User Study,No,No,No,No,No,No,No,No
+2023_Dec_154,2023,User Study,No,No,No,No,No,No,No,No
+2023_Dec_155,2023,User Study,No,No,No,No,No,No,No,No
+2023_Dec_156,2023,Algorithm Development;Hardware Development;Software Development,Yes,No,No,Yes,No,No,Yes,Yes
+2023_Dec_157,2023,Algorithm Development,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+2023_Dec_158,2023,Algorithm Development;Hardware Development;Software Development,Yes,No,No,Yes,No,No,Yes,No
+2023_Dec_159,2023,Algorithm Development;Software Development,Yes,Yes,Yes,Yes,Yes,No,No,No
+2023_Dec_160,2023,Algorithm Development;Software Development,Yes,No,No,Yes,No,No,No,No
+2023_Dec_161,2023,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,No,No,No,No
+2023_Dec_162,2023,Algorithm Development;Software Development;User Study,Yes,Yes,Yes,No,No,No,Yes,Yes
+2023_Dec_163,2023,Algorithm Development;Software Development;User Study,Yes,Yes,Yes,Yes,Yes,No,No,No
+2023_Dec_164,2023,Algorithm Development;Software Development,Yes,No,No,Yes,Yes,No,No,No
+2023_Dec_165,2023,User Study,No,No,No,No,No,No,No,No
+2023_Dec_166,2023,Hardware Development;User Study,No,No,No,No,No,No,Yes,Yes
+2023_Dec_167,2023,Algorithm Development;Software Development,Yes,No,No,No,No,No,Yes,Yes
+2023_Dec_168,2023,Algorithm Development;Hardware Development,Yes,No,No,No,No,No,Yes,Yes
+2023_Dec_169,2023,User Study,No,No,No,No,No,No,No,No
+2023_Dec_170,2023,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2023_Dec_171,2023,Software Development,Yes,Yes,Yes,No,No,No,No,No
+2023_Dec_172,2023,Algorithm Development;Software Development,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+2023_Dec_173,2023,Hardware Development,Yes,No,No,No,No,No,Yes,Yes
+2023_Dec_174,2023,Algorithm Development;Software Development,No,No,No,Yes,No,No,No,Yes
+2023_Dec_175,2023,Software Development;User Study,Yes,No,No,No,No,No,No,Yes
+2023_Dec_176,2023,Algorithm Development;Software Development;User Study,Yes,No,No,No,No,No,Yes,No
+2023_Dec_177,2023,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2023_Dec_178,2023,Hardware Development;User Study,Yes,No,No,No,No,No,Yes,No
+2023_Dec_179,2023,Algorithm Development;Software Development;User Study,Yes,No,No,No,No,No,Yes,No
+2023_Dec_180,2023,Algorithm Development;Software Development,Yes,No,No,Yes,No,No,No,No
+2023_Dec_181,2023,Software Development;User Study,Yes,Yes,Yes,Yes,No,No,No,No
+2023_Dec_182,2023,Algorithm Development;Hardware Development,No,No,No,No,No,No,Yes,No
+2023_Dec_183,2023,Algorithm Development;Software Development,Yes,Yes,Yes,No,No,No,No,No
+2023_Dec_184,2023,Algorithm Development;Hardware Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2023_Dec_185,2023,Software Development;User Study,Yes,No,No,No,No,No,No,No
+2023_Dec_186,2023,Algorithm Development;Hardware Development;Software Development,Yes,No,No,Yes,No,No,Yes,Yes
+2023_Dec_187,2023,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,Yes,No,Yes,No
+2023_Dec_189,2023,Algorithm Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2023_Dec_190,2023,Algorithm Development,Yes,No,No,Yes,No,No,Yes,No
+2023_Dec_191,2023,Algorithm Development;Hardware Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2023_Dec_192,2023,Dataset Paper,Yes,No,Yes,Yes,Yes,Yes,No,No
+2023_Dec_193,2023,Algorithm Development;Software Development,Yes,No,No,Yes,No,No,Yes,No
+2023_Dec_194,2023,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2023_Dec_195,2023,Hardware Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2023_Dec_196,2023,Hardware Development;Software Development,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+2023_Dec_197,2023,Algorithm Development;Hardware Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2023_Dec_198,2023,Algorithm Development;Hardware Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2023_Dec_199,2023,Algorithm Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2023_Dec_200,2023,Algorithm Development;Dataset Paper;User Study,Yes,No,No,Yes,Yes,Yes,Yes,Yes
+2023_Dec_201,2023,Algorithm Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2023_Dec_202,2023,Software Development;User Study,Yes,Yes,Yes,Yes,No,No,Yes,No
+2023_Dec_203,2023,Algorithm Development,Yes,No,No,Yes,No,No,Yes,No
+2023_Dec_204,2023,Algorithm Development;Software Development,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+2023_Dec_205,2023,Algorithm Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2024_Mar_001,2024,Algorithm Development;Software Development,Yes,No,No,Yes,Yes,No,No,No
+2024_Mar_002,2024,Algorithm Development,Yes,Yes,Yes,Yes,Yes,No,No,No
+2024_Mar_003,2024,User Study,No,No,No,No,No,No,No,No
+2024_Mar_004,2024,Literature Review,No,No,No,No,No,No,No,No
+2024_Mar_005,2024,Algorithm Development;Software Development,Yes,No,No,Yes,No,No,Yes,Yes
+2024_Mar_006,2024,Algorithm Development;Software Development,Yes,No,No,Yes,Yes,No,Yes,No
+2024_Mar_007,2024,Algorithm Development;Hardware Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2024_Mar_008,2024,Algorithm Development;Software Development;User Study,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+2024_Mar_009,2024,Algorithm Development;Dataset Paper,Yes,No,No,Yes,No,No,No,No
+2024_Mar_010,2024,Algorithm Development,Yes,Yes,Yes,Yes,Yes,No,No,No
+2024_Mar_011,2024,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,Yes,No,No,No
+2024_Mar_012,2024,Algorithm Development;Software Development;User Study,Yes,No,No,No,No,No,Yes,Yes
+2024_Mar_013,2024,Algorithm Development;Hardware Development;Software Development,Yes,No,No,Yes,No,No,Yes,No
+2024_Mar_014,2024,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,No,No,No,Yes
+2024_Mar_015,2024,Algorithm Development;Software Development,Yes,No,No,Yes,No,No,No,No
+2024_Mar_016,2024,Algorithm Development,Yes,No,No,No,No,No,No,No
+2024_Mar_017,2024,Algorithm Development;Dataset Paper,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+2024_Mar_018,2024,Algorithm Development;User Study,No,No,No,Yes,No,No,No,Yes
+2024_Mar_019,2024,Dataset Paper,No,No,No,Yes,Yes,Yes,No,No
+2024_Mar_020,2024,Algorithm Development;Software Development;User Study,Yes,Yes,Yes,No,No,No,No,No
+2024_Mar_021,2024,Algorithm Development;Dataset Paper,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+2024_Mar_022,2024,Algorithm Development;Software Development;User Study,Yes,No,Yes,Yes,No,No,No,Yes
+2024_Mar_023,2024,Algorithm Development;Software Development,Yes,No,No,Yes,No,No,No,Yes
+2024_Mar_024,2024,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,No,No,No,No
+2024_Mar_025,2024,Algorithm Development;Software Development,Yes,No,No,Yes,No,No,Yes,No
+2024_Mar_026,2024,Algorithm Development;Software Development;User Study,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+2024_Mar_027,2024,User Study,No,No,No,No,No,No,No,No
+2024_Mar_028,2024,Algorithm Development;Hardware Development;Software Development,Yes,Yes,Yes,Yes,No,No,Yes,No
+2024_Mar_029,2024,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,No,No,No,Yes
+2024_Mar_030,2024,Algorithm Development;Hardware Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2024_Mar_031,2024,Algorithm Development;Software Development,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+2024_Mar_032,2024,User Study,No,No,No,No,No,No,No,No
+2024_Mar_033,2024,Software Development;User Study,Yes,Yes,Yes,Yes,No,No,No,No
+2024_Mar_034,2024,Hardware Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2024_Mar_035,2024,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2024_Mar_036,2024,Algorithm Development;Hardware Development;Software Development;User Study,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+2024_Mar_037,2024,Algorithm Development,Yes,No,No,Yes,Yes,Yes,No,No
+2024_Mar_038,2024,Dataset Paper;User Study,Yes,No,No,Yes,Yes,Yes,Yes,No
+2024_Mar_039,2024,Algorithm Development;Software Development,Yes,No,No,Yes,Yes,No,Yes,No
+2024_Mar_040,2024,Literature Review;User Study,No,No,No,No,No,No,No,No
+2024_Mar_041,2024,Algorithm Development;Software Development,Yes,No,No,Yes,Yes,No,Yes,No
+2024_Jun_042,2024,Algorithm Development;Dataset Paper;User Study,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+2024_Jun_043,2024,Algorithm Development;Hardware Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2024_Jun_044,2024,Algorithm Development;Software Development;User Study,Yes,No,No,No,No,No,Yes,No
+2024_Jun_045,2024,Hardware Development;User Study,No,No,No,No,No,No,Yes,No
+2024_Jun_046,2024,Algorithm Development;Software Development,Yes,No,No,Yes,Yes,No,No,No
+2024_Jun_047,2024,Algorithm Development;Hardware Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2024_Jun_048,2024,Algorithm Development;Software Development,Yes,No,Yes,Yes,Yes,No,No,No
+2024_Jun_049,2024,Algorithm Development;Hardware Development;Software Development;User Study,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+2024_Jun_050,2024,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,No,No,No,No
+2024_Jun_051,2024,User Study,No,No,No,No,No,No,No,No
+2024_Jun_052,2024,Algorithm Development;Hardware Development,Yes,No,No,Yes,No,No,Yes,No
+2024_Jun_053,2024,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,No,No,No,No
+2024_Jun_054,2024,Algorithm Development;Hardware Development;User Study,Yes,No,No,No,No,No,Yes,No
+2024_Jun_055,2024,Algorithm Development;Software Development;User Study,Yes,Yes,Yes,Yes,No,No,Yes,No
+2024_Jun_056,2024,Algorithm Development;Software Development,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+2024_Jun_057,2024,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2024_Jun_058,2024,Algorithm Development;Software Development,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+2024_Jun_059,2024,Literature Review,No,No,No,No,No,No,No,No
+2024_Jun_060,2024,Hardware Development;User Study,Yes,No,No,No,No,No,Yes,Yes
+2024_Jun_061,2024,User Study,No,No,No,No,No,No,No,No
+2024_Jun_062,2024,Algorithm Development,Yes,No,No,No,No,No,Yes,Yes
+2024_Jun_063,2024,Algorithm Development,Yes,No,No,Yes,No,No,Yes,Yes
+2024_Jun_064,2024,Algorithm Development;Software Development,Yes,No,No,Yes,No,No,Yes,Yes
+2024_Jun_065,2024,Algorithm Development;Software Development,Yes,No,No,Yes,Yes,No,Yes,Yes
+2024_Jun_066,2024,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2024_Jun_067,2024,Hardware Development;User Study,Yes,Yes,Yes,No,No,No,Yes,Yes
+2024_Jun_068,2024,Algorithm Development;Software Development,Yes,No,No,Yes,Yes,No,Yes,Yes
+2024_Jun_069,2024,Algorithm Development;Hardware Development;Software Development,Yes,No,No,Yes,No,No,Yes,Yes
+2024_Jun_070,2024,Algorithm Development;Hardware Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2024_Jun_071,2024,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2024_Jun_072,2024,Software Development;User Study,Yes,Yes,Yes,No,No,No,No,Yes
+2024_Jun_073,2024,Algorithm Development;Software Development;User Study,Yes,No,No,No,No,No,Yes,Yes
+2024_Jun_074,2024,Algorithm Development;Software Development;User Study,Yes,Yes,No,Yes,Yes,Yes,Yes,No
+2024_Jun_075,2024,Algorithm Development;Hardware Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2024_Jun_076,2024,User Study,No,No,No,No,No,No,No,No
+2024_Jun_077,2024,Software Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2024_Jun_078,2024,Software Development;User Study,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+2024_Jun_079,2024,Software Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2024_Jun_080,2024,Algorithm Development;Hardware Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2024_Jun_081,2024,Algorithm Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2024_Jun_082,2024,Algorithm Development;Hardware Development;Software Development;User Study,Yes,No,No,Yes,Yes,Yes,Yes,No
+2024_Jun_083,2024,Algorithm Development;Dataset Paper;Hardware Development;Software Development;User Study,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+2024_Jun_084,2024,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2024_Jun_085,2024,Algorithm Development,Yes,No,No,Yes,Yes,No,No,No
+2024_Jun_086,2024,Algorithm Development;Dataset Paper,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+2024_Jun_087,2024,Algorithm Development;Hardware Development;Software Development;User Study,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+2024_Sep_088,2024,Algorithm Development,No,No,No,No,No,No,Yes,No
+2024_Sep_089,2024,Dataset Paper;Software Development,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+2024_Sep_090,2024,Algorithm Development;Software Development,Yes,Yes,Yes,No,No,No,Yes,Yes
+2024_Sep_091,2024,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2024_Sep_092,2024,Hardware Development,No,No,No,No,No,No,Yes,No
+2024_Sep_093,2024,Software Development;User Study,Yes,Yes,No,No,No,No,Yes,Yes
+2024_Sep_094,2024,Algorithm Development;Hardware Development,Yes,No,No,No,No,No,Yes,Yes
+2024_Sep_095,2024,Algorithm Development;Hardware Development;User Study,Yes,No,No,No,No,No,Yes,Yes
+2024_Sep_096,2024,Dataset Paper;Software Development,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+2024_Sep_097,2024,Algorithm Development;Software Development;User Study,Yes,Yes,Yes,No,No,No,Yes,Yes
+2024_Sep_098,2024,Literature Review,No,No,No,No,No,No,No,No
+2024_Sep_099,2024,Algorithm Development;Software Development,Yes,Yes,Yes,Yes,Yes,No,No,No
+2024_Sep_100,2024,User Study,No,No,No,No,No,No,No,No
+2024_Sep_101,2024,Algorithm Development;Hardware Development;Software Development;User Study,Yes,No,Yes,Yes,No,No,Yes,No
+2024_Sep_102,2024,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,No,No,No,Yes
+2024_Sep_103,2024,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2024_Sep_104,2024,Algorithm Development;Hardware Development;Software Development;User Study,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+2024_Sep_105,2024,Algorithm Development;Software Development,Yes,No,No,Yes,No,No,No,Yes
+2024_Sep_106,2024,Software Development;User Study,Yes,Yes,Yes,No,No,No,Yes,No
+2024_Sep_107,2024,Algorithm Development;Software Development;User Study,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+2024_Sep_108,2024,Software Development;User Study,Yes,No,No,No,No,No,No,No
+2024_Sep_109,2024,Algorithm Development;Dataset Paper,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+2024_Sep_110,2024,Hardware Development;Software Development;User Study,Yes,No,No,No,No,No,Yes,No
+2024_Sep_111,2024,Algorithm Development;User Study,Yes,No,No,No,No,No,Yes,No
+2024_Sep_112,2024,Algorithm Development,Yes,No,No,Yes,Yes,No,No,Yes
+2024_Sep_113,2024,Algorithm Development,Yes,No,No,Yes,No,No,Yes,No
+2024_Sep_114,2024,Algorithm Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2024_Sep_115,2024,User Study,No,No,No,No,No,No,No,No
+2024_Sep_116,2024,User Study,No,No,No,No,No,No,No,No
+2024_Sep_117,2024,Algorithm Development;Dataset Paper,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+2024_Sep_118,2024,Algorithm Development;Hardware Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2024_Sep_119,2024,Algorithm Development;User Study,Yes,No,No,Yes,No,No,No,No
+2024_Sep_120,2024,User Study,No,No,No,No,No,No,No,No
+2024_Sep_121,2024,Algorithm Development;Software Development;User Study,Yes,Yes,Yes,No,No,No,Yes,No
+2024_Sep_122,2024,Algorithm Development;Hardware Development;User Study,Yes,No,No,No,No,No,Yes,No
+2024_Sep_123,2024,Algorithm Development;Dataset Paper;Software Development,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+2024_Sep_124,2024,Algorithm Development;Hardware Development,Yes,No,No,Yes,No,No,Yes,No
+2024_Sep_125,2024,Algorithm Development;Hardware Development;User Study,Yes,No,No,No,No,No,Yes,No
+2024_Sep_126,2024,User Study,No,No,No,No,No,Yes,No,No
+2024_Sep_127,2024,Literature Review;User Study,No,No,No,No,No,No,No,No
+2024_Sep_128,2024,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2024_Sep_129,2024,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2024_Sep_130,2024,Software Development;User Study;Literature Review,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+2024_Sep_131,2024,Algorithm Development;Hardware Development;User Study,No,No,No,Yes,No,No,Yes,No
+2024_Sep_132,2024,Algorithm Development;Software Development,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
+2024_Sep_133,2024,Software Development;User Study,Yes,No,No,No,No,No,Yes,Yes
+2024_Sep_134,2024,Algorithm Development;Software Development,Yes,No,No,Yes,Yes,Yes,Yes,Yes
+2024_Sep_135,2024,Software Development,Yes,No,No,Yes,No,No,Yes,Yes
+2024_Sep_136,2024,Algorithm Development;Software Development,Yes,No,No,No,No,No,Yes,Yes
+2024_Sep_137,2024,Software Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2024_Sep_138,2024,Hardware Development;Software Development;User Study,Yes,Yes,Yes,No,No,No,Yes,Yes
+2024_Sep_139,2024,Algorithm Development;Hardware Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2024_Sep_141,2024,Algorithm Development;Hardware Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2024_Sep_142,2024,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2024_Sep_143,2024,Algorithm Development;Software Development,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+2024_Sep_144,2024,Algorithm Development;Hardware Development;Software Development;User Study,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+2024_Sep_145,2024,Software Development;User Study,Yes,No,No,No,No,No,Yes,Yes
+2024_Sep_146,2024,Algorithm Development;Software Development,Yes,No,No,Yes,Yes,Yes,Yes,No
+2024_Sep_147,2024,Algorithm Development;Hardware Development;User Study,Yes,No,No,No,No,No,Yes,No
+2024_Sep_148,2024,Software Development;User Study,Yes,No,No,No,No,No,Yes,Yes
+2024_Dec_140,2024,Algorithm Development;Software Development,Yes,Yes,Yes,Yes,Yes,No,No,No
+2024_Dec_149,2024,Literature Review,No,No,No,No,No,No,No,No
+2024_Dec_150,2024,Algorithm Development;Software Development;User Study,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+2024_Dec_151,2024,Algorithm Development;Hardware Development,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+2024_Dec_152,2024,Algorithm Development;Dataset Paper,Yes,No,Yes,Yes,No,Yes,No,No
+2024_Dec_153,2024,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,Yes,No,No,Yes
+2024_Dec_154,2024,Algorithm Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2024_Dec_155,2024,Algorithm Development,Yes,No,No,Yes,No,No,No,No
+2024_Dec_156,2024,Algorithm Development;Hardware Development,Yes,No,No,Yes,No,No,Yes,No
+2024_Dec_157,2024,Algorithm Development,Yes,No,No,Yes,No,No,Yes,Yes
+2024_Dec_158,2024,Algorithm Development,Yes,No,No,Yes,No,No,No,No
+2024_Dec_159,2024,Algorithm Development;Software Development,Yes,No,Yes,No,No,No,Yes,No
+2024_Dec_160,2024,User Study,No,No,No,No,No,No,No,No
+2024_Dec_161,2024,Algorithm Development;Software Development,Yes,No,No,Yes,No,No,No,No
+2024_Dec_162,2024,Algorithm Development;Software Development,Yes,Yes,Yes,Yes,Yes,No,No,No
+2024_Dec_163,2024,Algorithm Development;User Study,Yes,No,No,Yes,Yes,No,Yes,No
+2024_Dec_164,2024,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,No,No,No,No
+2024_Dec_166,2024,Algorithm Development;User Study,Yes,No,No,Yes,Yes,No,No,No
+2024_Dec_167,2024,Algorithm Development;Software Development;User Study,Yes,No,No,No,No,No,No,Yes
+2024_Dec_168,2024,Algorithm Development;User Study,Yes,No,No,Yes,Yes,No,No,Yes
+2024_Dec_169,2024,Algorithm Development;Hardware Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2024_Dec_170,2024,Algorithm Development;Hardware Development;User Study,Yes,No,No,No,No,No,Yes,Yes
+2024_Dec_171,2024,User Study,No,No,No,No,No,No,No,No
+2024_Dec_172,2024,Algorithm Development;Hardware Development;Software Development;User Study,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+2024_Dec_173,2024,Dataset Paper;Software Development;User Study,Yes,No,No,Yes,Yes,Yes,Yes,Yes
+2024_Dec_174,2024,Algorithm Development;Software Development,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+2024_Dec_175,2024,Dataset Paper;Software Development,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+2024_Dec_176,2024,Algorithm Development;User Study,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+2024_Dec_177,2024,Algorithm Development;Hardware Development;Software Development,Yes,No,No,No,No,No,Yes,Yes
+2024_Dec_178,2024,Algorithm Development;Hardware Development;User Study,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+2024_Dec_179,2024,Algorithm Development;Software Development,Yes,No,No,Yes,Yes,Yes,Yes,Yes
+2024_Dec_180,2024,Algorithm Development;Software Development,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+2024_Dec_181,2024,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2024_Dec_182,2024,Hardware Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2024_Dec_183,2024,Algorithm Development;Hardware Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2024_Dec_184,2024,Algorithm Development;Software Development,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+2024_Dec_185,2024,Algorithm Development;Hardware Development;Software Development,Yes,No,Yes,Yes,Yes,No,Yes,Yes
+2024_Dec_186,2024,Software Development;User Study,Yes,No,No,Yes,No,No,No,Yes
+2024_Dec_187,2024,Algorithm Development;Hardware Development;Software Development;User Study,Yes,Yes,Yes,No,No,No,Yes,No
+2024_Dec_188,2024,Hardware Development;User Study,No,No,No,No,No,No,Yes,Yes
+2024_Dec_189,2024,Algorithm Development;Hardware Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2024_Dec_190,2024,Algorithm Development;Hardware Development;Software Development;User Study,Yes,Yes,Yes,Yes,No,No,Yes,No
+2024_Dec_191,2024,Algorithm Development;Hardware Development;Software Development;User Study,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+2024_Dec_192,2024,Algorithm Development;Software Development,Yes,No,No,Yes,Yes,Yes,Yes,No
+2024_Dec_193,2024,User Study,No,No,No,No,No,No,No,No
+2024_Dec_194,2024,Algorithm Development;Hardware Development;Software Development,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+2024_Dec_195,2024,Algorithm Development;Software Development,Yes,No,No,Yes,Yes,Yes,No,No
+2024_Dec_196,2024,Algorithm Development;Hardware Development;Software Development,Yes,No,No,No,No,No,Yes,No
+2024_Dec_197,2024,Algorithm Development;Hardware Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2024_Dec_198,2024,Algorithm Development;Software Development,Yes,No,Yes,Yes,Yes,Yes,Yes,No
+2024_Dec_199,2024,Algorithm Development;Hardware Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2024_Dec_200,2024,Algorithm Development;Hardware Development;Software Development,Yes,No,No,Yes,No,No,Yes,No
+2024_Dec_201,2024,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,No,No,No,Yes
+2024_Dec_202,2024,Algorithm Development;Software Development,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+2024_Dec_203,2024,Software Development;User Study,Yes,No,No,No,No,No,Yes,Yes
+2024_Dec_204,2024,Algorithm Development;Software Development,Yes,No,No,Yes,Yes,No,Yes,No
+2024_Dec_205,2024,Algorithm Development;Hardware Development;Software Development;User Study,Yes,Yes,Yes,Yes,No,No,Yes,No
+2024_Dec_206,2024,Algorithm Development;Software Development,Yes,Yes,Yes,Yes,Yes,No,No,No
+2024_Dec_207,2024,Algorithm Development;Hardware Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2024_Dec_208,2024,Algorithm Development;Hardware Development;Software Development;User Study,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+2024_Dec_209,2024,Algorithm Development;Software Development,Yes,No,No,Yes,No,No,Yes,Yes
+2025_Mar_001,2025,Dataset Paper;User Study,No,No,No,Yes,No,Yes,No,No
+2025_Mar_002,2025,Algorithm Development,Yes,No,No,Yes,Yes,No,Yes,No
+2025_Mar_003,2025,Algorithm Development,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+2025_Mar_004,2025,Algorithm Development,Yes,No,No,No,No,No,Yes,Yes
+2025_Mar_005,2025,User Study,No,No,No,No,No,No,No,No
+2025_Mar_006,2025,Algorithm Development;Hardware Development,Yes,No,No,Yes,No,No,Yes,No
+2025_Mar_007,2025,Algorithm Development,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+2025_Mar_008,2025,Dataset Paper;User Study,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+2025_Mar_009,2025,User Study,No,No,No,No,No,No,No,No
+2025_Mar_010,2025,Hardware Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2025_Mar_011,2025,Algorithm Development;Software Development,Yes,No,No,No,Yes,No,Yes,Yes
+2025_Mar_012,2025,Algorithm Development;Hardware Development,No,No,No,No,No,No,Yes,No
+2025_Mar_013,2025,User Study,No,No,No,No,No,No,No,No
+2025_Mar_014,2025,Algorithm Development;User Study,Yes,No,No,Yes,No,No,No,Yes
+2025_Mar_015,2025,User Study,No,No,No,No,No,No,No,No
+2025_Mar_016,2025,Software Development;Hardware Development,Yes,Yes,Yes,No,No,No,Yes,Yes
+2025_Mar_017,2025,Algorithm Development;Software Development,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+2025_Mar_018,2025,Algorithm Development;Hardware Development;Software Development,Yes,No,No,Yes,No,No,Yes,Yes
+2025_Mar_019,2025,Algorithm Development,Yes,No,No,Yes,No,No,No,No
+2025_Mar_020,2025,Algorithm Development;Hardware Development;Software Development;User Study,Yes,No,No,No,No,No,Yes,Yes
+2025_Mar_021,2025,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2025_Mar_022,2025,Algorithm Development;Software Development,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+2025_Mar_023,2025,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,Yes,No,Yes,Yes
+2025_Mar_024,2025,Algorithm Development;Hardware Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2025_Mar_025,2025,Algorithm Development;Hardware Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2025_Mar_026,2025,Algorithm Development;User Study,Yes,No,No,Yes,Yes,Yes,No,No
+2025_Jun_027,2025,Algorithm Development;Hardware Development,Yes,Yes,Yes,No,No,No,Yes,No
+2025_Jun_028,2025,Hardware Development,No,No,No,No,No,No,Yes,Yes
+2025_Jun_029,2025,Algorithm Development,Yes,No,No,Yes,No,No,No,No
+2025_Jun_030,2025,Algorithm Development;User Study,Yes,No,No,Yes,No,No,No,No
+2025_Jun_031,2025,Algorithm Development;Hardware Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2025_Jun_032,2025,Algorithm Development;User Study,Yes,No,No,Yes,No,No,No,No
+2025_Jun_033,2025,Algorithm Development;Hardware Development,Yes,No,Yes,Yes,Yes,Yes,No,No
+2025_Jun_034,2025,Literature Review,No,No,No,No,No,No,No,No
+2025_Jun_035,2025,Algorithm Development,Yes,No,No,Yes,No,Yes,No,No
+2025_Jun_036,2025,Algorithm Development;Dataset Paper,Yes,Yes,Yes,Yes,No,No,No,Yes
+2025_Jun_037,2025,Algorithm Development,Yes,Yes,Yes,Yes,Yes,No,No,No
+2025_Jun_038,2025,User Study,No,No,No,No,No,No,No,No
+2025_Jun_039,2025,Algorithm Development,Yes,No,No,Yes,No,No,No,No
+2025_Jun_040,2025,Algorithm Development,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+2025_Jun_041,2025,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2025_Jun_042,2025,Dataset Paper;Software Development,Yes,No,Yes,Yes,Yes,Yes,Yes,No
+2025_Jun_043,2025,Algorithm Development;Software Development,Yes,No,No,Yes,No,No,Yes,Yes
+2025_Jun_044,2025,Algorithm Development;Hardware Development;User Study,No,No,No,No,No,No,Yes,No
+2025_Jun_045,2025,Software Development;User Study,Yes,Yes,Yes,Yes,No,No,No,No
+2025_Jun_046,2025,Algorithm Development;Dataset Paper;Software Development,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+2025_Jun_047,2025,Algorithm Development;Software Development,Yes,No,No,Yes,No,No,Yes,No
+2025_Jun_048,2025,Algorithm Development;Software Development,Yes,No,No,Yes,No,No,Yes,No
+2025_Jun_049,2025,Algorithm Development;Hardware Development;Software Development,Yes,No,No,No,No,No,Yes,No
+2025_Jun_050,2025,Algorithm Development,Yes,No,No,Yes,Yes,Yes,Yes,Yes
+2025_Jun_051,2025,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,Yes,Yes,Yes,Yes
+2025_Jun_052,2025,Algorithm Development;Hardware Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2025_Jun_053,2025,Algorithm Development;Hardware Development,No,No,No,Yes,No,No,Yes,No
+2025_Jun_054,2025,User Study,No,No,No,No,No,No,No,No
+2025_Jun_055,2025,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2025_Jun_056,2025,Algorithm Development,Yes,No,No,Yes,Yes,No,Yes,No
+2025_Jun_057,2025,Algorithm Development;Hardware Development;Software Development,Yes,No,No,Yes,No,No,Yes,No
+2025_Jun_058,2025,Algorithm Development;User Study,Yes,No,No,Yes,No,No,No,Yes
+2025_Jun_059,2025,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2025_Jun_060,2025,Algorithm Development;Software Development,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+2025_Jun_061,2025,Algorithm Development;Software Development,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+2025_Jun_062,2025,Hardware Development;Software Development;User Study,Yes,No,No,No,No,No,Yes,No
+2025_Jun_063,2025,Algorithm Development;Hardware Development;Software Development,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+2025_Jun_064,2025,Algorithm Development;Hardware Development;Software Development,Yes,No,No,Yes,Yes,Yes,Yes,No
+2025_Jun_065,2025,Algorithm Development;Hardware Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2025_Jun_066,2025,Algorithm Development;Software Development,Yes,No,No,Yes,Yes,Yes,No,No
+2025_Jun_067,2025,Algorithm Development;Software Development;User Study,Yes,Yes,Yes,Yes,No,No,Yes,No
+2025_Sep_068,2025,User Study,No,No,No,No,No,No,No,No
+2025_Sep_069,2025,Algorithm Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2025_Sep_070,2025,Algorithm Development;User Study,Yes,No,No,No,No,No,Yes,Yes
+2025_Sep_071,2025,Algorithm Development;User Study,Yes,No,No,No,No,No,Yes,Yes
+2025_Sep_072,2025,Algorithm Development,Yes,No,No,Yes,No,No,Yes,No
+2025_Sep_073,2025,Algorithm Development;Software Development,Yes,No,No,Yes,No,No,Yes,No
+2025_Sep_074,2025,Algorithm Development;Software Development,Yes,No,No,Yes,Yes,Yes,Yes,No
+2025_Sep_075,2025,User Study,No,No,No,No,No,No,No,No
+2025_Sep_076,2025,Algorithm Development;Software Development,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+2025_Sep_077,2025,Algorithm Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2025_Sep_078,2025,Software Development,Yes,No,No,Yes,Yes,Yes,No,No
+2025_Sep_079,2025,Software Development,Yes,No,No,Yes,No,No,Yes,Yes
+2025_Sep_080,2025,Software Development;User Study,Yes,No,No,Yes,No,No,No,Yes
+2025_Sep_081,2025,Software Development,Yes,No,No,Yes,Yes,Yes,No,Yes
+2025_Sep_082,2025,Hardware Development,No,No,No,Yes,No,No,Yes,Yes
+2025_Sep_083,2025,Algorithm Development;Software Development,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+2025_Sep_084,2025,Algorithm Development;Software Development,No,No,No,No,No,No,Yes,Yes
+2025_Sep_085,2025,Algorithm Development;Software Development,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+2025_Sep_086,2025,Software Development,Yes,No,No,Yes,Yes,Yes,Yes,No
+2025_Sep_087,2025,Hardware Development;Software Development,Yes,No,No,No,No,No,Yes,No
+2025_Sep_088,2025,Software Development;User Study,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+2025_Sep_089,2025,Algorithm Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2025_Sep_090,2025,Algorithm Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2025_Sep_091,2025,User Study,No,No,No,No,No,No,No,No
+2025_Sep_092,2025,Dataset Paper;User Study,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+2025_Sep_093,2025,Algorithm Development,Yes,No,No,Yes,No,No,Yes,Yes
+2025_Sep_094,2025,User Study,No,No,No,No,No,No,No,No
+2025_Sep_095,2025,Algorithm Development;Software Development;User Study,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+2025_Sep_096,2025,Software Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2025_Sep_097,2025,Algorithm Development;Hardware Development;Software Development,Yes,No,No,Yes,No,No,Yes,No
+2025_Sep_098,2025,Algorithm Development;Dataset Paper,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+2025_Sep_099,2025,Algorithm Development;Hardware Development;User Study,Yes,No,No,Yes,Yes,Yes,Yes,No
+2025_Sep_100,2025,Algorithm Development;Hardware Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2025_Sep_101,2025,Algorithm Development;User Study,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+2025_Sep_102,2025,User Study,No,No,No,No,No,No,No,No
+2025_Sep_103,2025,Algorithm Development;User Study,Yes,No,No,No,No,No,Yes,Yes
+2025_Sep_104,2025,Algorithm Development;Hardware Development;User Study,Yes,No,No,No,No,No,Yes,Yes
+2025_Sep_105,2025,Dataset Paper;User Study,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+2025_Sep_106,2025,Algorithm Development,Yes,No,No,Yes,No,No,Yes,No
+2025_Sep_107,2025,Algorithm Development;User Study,Yes,No,No,No,No,No,Yes,Yes
+2025_Sep_108,2025,Algorithm Development;Dataset Paper,Yes,No,No,Yes,No,No,Yes,No
+2025_Sep_109,2025,Algorithm Development;Software Development,Yes,No,No,No,No,No,No,No
+2025_Sep_110,2025,User Study,No,No,No,No,No,No,No,No
+2025_Sep_111,2025,Algorithm Development;Hardware Development,Yes,No,No,No,No,No,Yes,No
+2025_Sep_112,2025,Algorithm Development;Software Development,Yes,No,No,Yes,No,No,No,No
+2025_Sep_113,2025,Algorithm Development;Software Development;User Study,Yes,No,No,No,No,No,No,No
+2025_Sep_114,2025,Algorithm Development;Dataset Paper,Yes,No,No,Yes,No,No,Yes,No
+2025_Sep_115,2025,Algorithm Development,Yes,Yes,Yes,Yes,No,No,Yes,No
+2025_Sep_116,2025,Algorithm Development,Yes,No,No,Yes,No,No,Yes,No
+2025_Sep_117,2025,Algorithm Development;Software Development;User Study,Yes,No,Yes,No,No,No,No,No
+2025_Sep_118,2025,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2025_Sep_119,2025,Algorithm Development;Software Development;User Study,Yes,Yes,Yes,Yes,Yes,No,No,No
+2025_Sep_120,2025,Algorithm Development;Software Development;User Study,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+2025_Sep_121,2025,User Study,No,No,No,No,No,No,No,No
+2025_Sep_122,2025,Algorithm Development;Software Development;User Study,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+2025_Sep_123,2025,Software Development,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+2025_Sep_124,2025,Software Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2025_Sep_125,2025,User Study,No,No,No,No,No,No,No,No
+2025_Sep_126,2025,Software Development,Yes,Yes,Yes,Yes,No,No,No,No
+2025_Sep_127,2025,Dataset Paper,No,No,No,Yes,Yes,Yes,Yes,No
+2025_Sep_128,2025,Algorithm Development;Hardware Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2025_Sep_129,2025,Hardware Development;User Study,No,No,No,No,No,No,Yes,No
+2025_Sep_130,2025,Software Development,Yes,No,No,Yes,Yes,No,Yes,Yes
+2025_Sep_131,2025,Algorithm Development;User Study,No,No,No,Yes,No,No,No,No
+2025_Sep_132,2025,Algorithm Development;Software Development;User Study,Yes,No,No,No,No,No,Yes,Yes
+2025_Sep_133,2025,Algorithm Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2025_Sep_134,2025,Algorithm Development,No,No,No,No,No,No,Yes,Yes
+2025_Sep_135,2025,Algorithm Development;Hardware Development;Software Development,Yes,No,No,Yes,No,No,Yes,Yes
+2025_Sep_136,2025,Software Development;User Study,Yes,No,Yes,Yes,No,Yes,No,No
+2025_Sep_137,2025,Literature Review,No,No,No,No,No,No,No,No
+2025_Sep_138,2025,User Study,No,No,No,No,No,No,No,No
+2025_Sep_139,2025,Algorithm Development;Dataset Paper;Software Development,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+2025_Sep_140,2025,Software Development;User Study,Yes,No,No,No,No,No,Yes,Yes
+2025_Sep_141,2025,Algorithm Development;Hardware Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2025_Sep_142,2025,Algorithm Development;User Study,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+2025_Sep_143,2025,Dataset Paper;Hardware Development;Software Development;User Study,Yes,Yes,Yes,Yes,No,Yes,Yes,No
+2025_Sep_144,2025,Software Development;User Study,Yes,No,No,No,No,No,No,No
+2025_Sep_145,2025,Algorithm Development;Dataset Paper;Hardware Development;Software Development,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+2025_Sep_146,2025,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2025_Sep_147,2025,Algorithm Development;Hardware Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2025_Sep_148,2025,Algorithm Development;Software Development;User Study,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+2025_Sep_149,2025,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2025_Sep_150,2025,User Study,No,No,No,No,No,No,No,No
+2025_Sep_151,2025,Algorithm Development;Software Development;User Study,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+2025_Sep_152,2025,Hardware Development;Software Development;User Study,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+2025_Sep_153,2025,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,Yes,Yes,No,Yes
+2025_Sep_154,2025,Algorithm Development;Software Development;User Study,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+2025_Sep_155,2025,Software Development;User Study,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+2025_Sep_156,2025,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,Yes,No,Yes,No
+2025_Sep_157,2025,Algorithm Development;Dataset Paper;Software Development,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+2025_Dec_158,2025,Algorithm Development;User Study,Yes,No,No,No,No,No,Yes,Yes
+2025_Dec_159,2025,User Study,No,No,No,No,No,No,No,No
+2025_Dec_160,2025,Algorithm Development;Hardware Development,Yes,Yes,Yes,No,No,No,Yes,No
+2025_Dec_161,2025,Algorithm Development;Dataset Paper;User Study,Yes,Yes,Yes,Yes,No,Yes,No,No
+2025_Dec_162,2025,User Study,No,No,No,No,No,No,No,No
+2025_Dec_163,2025,Algorithm Development;Software Development,Yes,Yes,Yes,Yes,Yes,No,No,No
+2025_Dec_164,2025,Algorithm Development,Yes,No,No,Yes,No,No,Yes,No
+2025_Dec_165,2025,Algorithm Development;Software Development,Yes,No,No,Yes,Yes,Yes,No,No
+2025_Dec_166,2025,Algorithm Development;Hardware Development,Yes,No,No,No,No,No,Yes,No
+2025_Dec_167,2025,Algorithm Development;User Study,Yes,Yes,Yes,Yes,Yes,No,No,No
+2025_Dec_168,2025,Algorithm Development,Yes,No,No,Yes,No,No,No,No
+2025_Dec_169,2025,Dataset Paper,Yes,No,Yes,Yes,No,Yes,No,No
+2025_Dec_170,2025,User Study,No,No,No,No,No,No,No,No
+2025_Dec_171,2025,Algorithm Development;User Study,Yes,No,No,Yes,No,No,No,No
+2025_Dec_172,2025,Literature Review,No,No,No,No,No,No,No,No
+2025_Dec_174,2025,Algorithm Development;Hardware Development,Yes,No,No,No,No,No,Yes,No
+2025_Dec_175,2025,Algorithm Development,Yes,No,No,Yes,Yes,Yes,No,Yes
+2025_Dec_176,2025,Algorithm Development;Software Development,Yes,No,No,Yes,No,No,No,No
+2025_Dec_177,2025,Algorithm Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2025_Dec_178,2025,Algorithm Development;Software Development;User Study,Yes,No,No,No,No,No,Yes,No
+2025_Dec_179,2025,Algorithm Development,Yes,No,No,Yes,No,No,Yes,No
+2025_Dec_180,2025,Algorithm Development,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+2025_Dec_181,2025,Algorithm Development,Yes,No,Yes,Yes,No,Yes,No,Yes
+2025_Dec_182,2025,Algorithm Development;User Study,Yes,No,No,Yes,No,No,No,No
+2025_Dec_183,2025,User Study,No,No,No,No,No,No,No,No
+2025_Dec_184,2025,Literature Review,No,No,No,No,No,No,No,No
+2025_Dec_185,2025,Hardware Development;User Study,No,No,No,No,No,No,Yes,No
+2025_Dec_186,2025,Algorithm Development;Software Development;User Study,Yes,No,No,No,No,No,Yes,No
+2025_Dec_187,2025,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,No,No,No,No
+2025_Dec_188,2025,Algorithm Development,Yes,No,No,Yes,No,No,Yes,Yes
+2025_Dec_189,2025,Algorithm Development;Software Development,Yes,No,No,Yes,No,No,Yes,Yes
+2025_Dec_190,2025,Algorithm Development,Yes,No,No,No,No,No,Yes,Yes
+2025_Dec_191,2025,Algorithm Development;Hardware Development,Yes,No,No,Yes,No,No,Yes,Yes
+2025_Dec_192,2025,Algorithm Development;Hardware Development,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+2025_Dec_193,2025,Algorithm Development;Dataset Paper;Software Development,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+2025_Dec_194,2025,Algorithm Development;Hardware Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2025_Dec_195,2025,Hardware Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2025_Dec_196,2025,Algorithm Development;Software Development;User Study,Yes,No,No,No,No,No,Yes,Yes
+2025_Dec_197,2025,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2025_Dec_198,2025,Algorithm Development;Hardware Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2025_Dec_199,2025,Algorithm Development;Dataset Paper,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+2025_Dec_200,2025,Algorithm Development;Software Development,Yes,No,No,No,No,No,Yes,Yes
+2025_Dec_201,2025,Algorithm Development;Software Development,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+2025_Dec_202,2025,Algorithm Development;Software Development,Yes,No,No,Yes,No,No,Yes,Yes
+2025_Dec_203,2025,Software Development;Dataset Paper,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+2025_Dec_204,2025,Dataset Paper,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+2025_Dec_205,2025,Dataset Paper;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2025_Dec_206,2025,Algorithm Development;Dataset Paper;User Study,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+2025_Dec_207,2025,Algorithm Development;User Study,No,No,No,Yes,No,No,Yes,No
+2025_Dec_208,2025,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2025_Dec_209,2025,Algorithm Development;Software Development;User Study,Yes,No,No,No,No,No,Yes,Yes
+2025_Dec_210,2025,User Study,No,No,No,No,No,No,No,No
+2025_Dec_211,2025,Algorithm Development;Software Development,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+2025_Dec_212,2025,Algorithm Development,Yes,No,No,Yes,No,No,Yes,Yes
+2025_Dec_213,2025,Algorithm Development,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+2025_Dec_214,2025,Hardware Development;User Study,No,No,No,No,No,No,Yes,Yes
+2025_Dec_215,2025,Algorithm Development;User Study,No,No,No,Yes,Yes,Yes,Yes,Yes
+2025_Dec_216,2025,Algorithm Development;Hardware Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2025_Dec_217,2025,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2025_Dec_218,2025,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2025_Dec_219,2025,Algorithm Development;Hardware Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2025_Dec_220,2025,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2025_Dec_221,2025,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2025_Dec_222,2025,User Study,No,No,No,No,No,No,No,No
+2025_Dec_223,2025,Algorithm Development,Yes,No,No,Yes,Yes,No,No,No
+2025_Dec_224,2025,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2025_Dec_225,2025,Algorithm Development;Dataset Paper;Software Development;User Study,Yes,No,No,Yes,No,Yes,Yes,No
+2025_Dec_226,2025,Algorithm Development;Dataset Paper;Software Development;User Study,Yes,No,No,Yes,No,Yes,Yes,Yes
+2025_Dec_227,2025,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2025_Dec_228,2025,Algorithm Development;Hardware Development;Software Development;User Study,Yes,No,No,Yes,Yes,No,Yes,No
+2025_Dec_229,2025,Algorithm Development;Software Development,Yes,No,Yes,Yes,No,Yes,No,Yes
+2025_Dec_230,2025,Algorithm Development;Software Development,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+2025_Dec_231,2025,Algorithm Development;Software Development;User Study,Yes,Yes,Yes,Yes,No,No,Yes,No
+2025_Dec_232,2025,Algorithm Development;Hardware Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2025_Dec_233,2025,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,Yes,Yes,Yes,No
+2025_Dec_234,2025,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,Yes,Yes,Yes,No
+2025_Dec_235,2025,Algorithm Development;Hardware Development,Yes,No,No,Yes,No,No,Yes,No
+2025_Dec_236,2025,Algorithm Development;User Study,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+2025_Dec_237,2025,Algorithm Development;Hardware Development;User Study,Yes,No,No,Yes,Yes,No,Yes,No
+2025_Dec_238,2025,Algorithm Development;Software Development;User Study,Yes,No,No,Yes,Yes,No,Yes,Yes
+2025_Dec_239,2025,Algorithm Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2025_Dec_240,2025,Algorithm Development;Hardware Development;User Study,Yes,No,No,Yes,No,No,Yes,No
+2025_Dec_241,2025,Algorithm Development;Dataset Paper;User Study,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+2025_Dec_242,2025,Algorithm Development;User Study,Yes,No,No,Yes,No,No,Yes,Yes
+2025_Dec_243,2025,Algorithm Development;Dataset Paper;Software Development,Yes,No,No,Yes,No,No,Yes,Yes
